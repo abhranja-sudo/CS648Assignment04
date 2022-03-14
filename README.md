@@ -1,5 +1,3 @@
-# Inventory Page
+# Inventory APP
 
-CS648
-
-
+CS648.01-Assignment4
